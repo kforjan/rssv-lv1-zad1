@@ -1,0 +1,10 @@
+C:\Users\kreso\source\repos\rssv-lv1\rssv-lv1\bin\Debug\rssv-lv1.exe.config
+C:\Users\kreso\source\repos\rssv-lv1\rssv-lv1\bin\Debug\rssv-lv1.exe
+C:\Users\kreso\source\repos\rssv-lv1\rssv-lv1\bin\Debug\rssv-lv1.pdb
+C:\Users\kreso\source\repos\rssv-lv1\rssv-lv1\obj\Debug\rssv-lv1.csprojAssemblyReference.cache
+C:\Users\kreso\source\repos\rssv-lv1\rssv-lv1\obj\Debug\rssv_lv1.Form1.resources
+C:\Users\kreso\source\repos\rssv-lv1\rssv-lv1\obj\Debug\rssv_lv1.Properties.Resources.resources
+C:\Users\kreso\source\repos\rssv-lv1\rssv-lv1\obj\Debug\rssv-lv1.csproj.GenerateResource.cache
+C:\Users\kreso\source\repos\rssv-lv1\rssv-lv1\obj\Debug\rssv-lv1.csproj.CoreCompileInputs.cache
+C:\Users\kreso\source\repos\rssv-lv1\rssv-lv1\obj\Debug\rssv-lv1.exe
+C:\Users\kreso\source\repos\rssv-lv1\rssv-lv1\obj\Debug\rssv-lv1.pdb
